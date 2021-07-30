@@ -8,4 +8,4 @@ To play the game:
 3) Choose the .sln file
 4) Play the game
 
-*Note: You can change the word list of your choice in the word.txt file 
+*Note: You can change the word list of your choice in the wordlist.txt file 
